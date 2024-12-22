@@ -8,7 +8,7 @@ A simple PHP-based application to create short URLs from long URLs. This project
 ## 2. Technical Stack
 
 - PHP
-- MySQL
+- MySQL/ PostgreSQL
 
 ## 3. Features
 
@@ -38,4 +38,5 @@ The easiest way to deploy your PHP app is via [Heroku]([url](https://www.heroku.
 - [XAMPP]([url](https://www.apachefriends.org/))
 - [Docker ]([url](https://www.docker.com/))
 - [Daytona Integration Guide]([url](https://dev.to/mayank_mohapatra/integrate-daytona-and-let-the-magic-begin-38hg))
+- [PstgreSQL]([url](https://www.postgresql.org/))
 
